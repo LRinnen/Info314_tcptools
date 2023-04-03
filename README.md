@@ -2,14 +2,14 @@
 ## Ping
 
 
-### Amazon (www.amazon.com)
+### Amazon
 
 #### What were the min/avg/max/stddev statistics for each?
 
 
-1. 11.113/25.696/117.346/22.915 ms
-2. 11.352/25.838/100.435/16.365 ms
-3. 11.048/21.081/43.781/6.930 ms
+1. 11.528/39.538/78.408/30.712 ms
+2. 23.766/30.234/40.046/5.807 ms
+3. 11.635/19.018/24.746/4.204 ms
 
 #### Was there any packet loss on any of the pings?
 
@@ -17,39 +17,37 @@ No, there was no packet loss.
 
 #### Did the IP address change for a given website between pings?
 
-Yes, IP addressses:
+No, IP address:
 
-- 162.219.225.118
-- 18.172.169.208
-- 104.71.134.32
+- 18.65.233.187
 
 
-### Google (www.google.com)
+### Google
 
 #### What were the min/avg/max/stddev statistics for each?
 
-1. 12.513/20.368/43.987/7.240 ms
-2. 12.473/19.765/35.357/4.552 ms
-3. 12.766/25.630/132.810/21.574 ms
+1. 17.785/51.144/94.211/34.100 ms
+2. 18.146/20.714/23.986/1.926 ms
+3. 14.932/47.019/113.175/37.728 ms
 
 #### Was there any packet loss on any of the pings?
 
-One of the pings had 3.6% packet loss (27/28 packets).
+No, there was no packet loss.
 
 #### Did the IP address change for a given website between pings?
 
 No, IP address:
 
-- 142.251.215.228
+- 142.251.211.228
 
 
-### Microsoft (www.microsoft.com)
+### Microsoft
 
 #### What were the min/avg/max/stddev statistics for each?
 
-1. 11.691/25.066/97.834/17.459 ms
-2. 12.678/21.432/36.000/4.530 ms
-3. 11.913/20.531/30.136/4.332 ms
+1. 11.911/16.987/20.204/3.113 ms
+2. 16.575/20.285/22.288/2.067 ms
+3. 12.321/19.857/26.538/4.670 ms
 
 #### Was there any packet loss on any of the pings?
 
