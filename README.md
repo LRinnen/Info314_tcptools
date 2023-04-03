@@ -29,18 +29,19 @@ For www.google.com, one of the pings had 3.6% packet loss (27/28 packets).
 ### Did the IP address change for a given website between pings?
 
 **Amazon:** Yes
+
 162.219.225.118
+
 18.172.169.208
+
 104.71.134.32
 
 **Google:** No
-142.251.215.228
-142.251.215.228
+
 142.251.215.228
 
 **Microsoft:** No
-23.216.81.152
-23.216.81.152
+
 23.216.81.152
 
 ## Tracert
