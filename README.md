@@ -81,7 +81,7 @@ No, IP address:
 
 #### What was the target server's IP address?
 
-
+142.251.211.228
 
 #### How many hops were needed to reach the target?
 
@@ -96,6 +96,8 @@ No, IP address:
 
 
 #### What was the target server's IP address?
+
+23.216.81.152
 
 #### How many hops were needed to reach the target?
 
