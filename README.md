@@ -165,7 +165,4 @@ ISP: comcast.net
 12. * * *
 13. 23.216.81.152 - Class A
 
-## Packet-Capture Tools
-
-## Spy on Your Opponents 
 
